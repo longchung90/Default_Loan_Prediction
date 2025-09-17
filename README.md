@@ -21,14 +21,14 @@ The challenge required end-to-end development of a classification model, from da
 ## 📊 Key Visuals  
 
 ### Feature Distributions
-![Financial Metrics](results/figures/chart/boxplots_financial_metrics.png)  
+![Financial Metrics](results/figures/charts/boxplots_financial_metrics.png)  
 *Box plots showing financial metric distributions for borrowers.*  
 
-![Credit Metrics](results/figures/chart/boxplots_credit_metrics.png)  
+![Credit Metrics](results/figures/charts/boxplots_credit_metrics.png)  
 *Box plots showing credit metric distributions for borrowers.*  
 
 ### Feature Importance
-![Feature Importance](results/figures/table/feature_important.png)  
+![Feature Importance](results/figures/tables/feature_important.png)  
 *Most influential features driving loan default predictions.*  
 
 ---
@@ -44,7 +44,8 @@ The challenge required end-to-end development of a classification model, from da
 ---
 
 ## 🚀 Results & Achievements
-- **Top 92 globally** in Coursera Data Science Challenge.  
+- **Top 92 globally** in Coursera Data Science Challenge.
+  ![Challenge ranking](results/achievements/Top92.png)  
 - Strong predictive performance on both ordinary and extreme borrower profiles.  
 - Financial and credit metrics emerged as the most influential predictors.  
 - Pipeline designed for **interpretability + rob**
