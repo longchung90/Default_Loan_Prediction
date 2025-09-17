@@ -1,6 +1,6 @@
 # 🏆 Loan Default Prediction – Coursera Data Science Challenge  
 
-![Coursera Challenge Banner](results/figures/banner/Banner_clear.png)
+![Coursera Challenge Banner](results/figures/banner/banner.png)
 
 This project was submitted to the **Coursera Data Science Challenge**, where I ranked **Top 92 globally** 🥳.  
 
